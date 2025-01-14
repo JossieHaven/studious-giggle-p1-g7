@@ -7,16 +7,20 @@ We created this project so that anyone who has not seen the Lord of the Rings (L
 ## Usage
 
 Once you visit the page, the movies in the series will be displayed in watch order. When you have seen a movie, click it and a pop-up will apeear. Select what option you wish to place the movie into in order to keep track. When you leave and return to the page, it will remember your previous choices.
+<br>
+<br>
+<br>
 
-```md
-![main page screen shot](assets/images/pageSS.png)
-```
+![Main page screenshot](assets/images/pageSS.png)
 
 ## Credits
 
 - Daniel Llorens https://github.com/dlastname
 - Jossie Haven: https://github.com/JossieHaven
 - Mike Norris: https://github.com/mnorris3
+
+- Repo-link: <https://jossiehaven.github.io/studious-giggle-p1-g7/>
+
 
 ## License
 
